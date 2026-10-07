@@ -67,7 +67,7 @@ export default function Footer() {
       <div className="border-b border-white/10">
         <div className="container-luxe py-16 lg:py-20 grid lg:grid-cols-2 gap-10 items-center">
           <div>
-            <p className="eyebrow text-gold-400 mb-4">The Adinkra Journal</p>
+            <p className="eyebrow text-gold-400 mb-4">Golden Race Journal</p>
             <h3 className="heading-display text-3xl md:text-4xl lg:text-5xl text-cream-50 max-w-lg">
               Letters from Accra, four times a year.
             </h3>

@@ -151,7 +151,7 @@ export default function Navbar() {
                   transparent ? 'text-white' : 'text-ink-900'
                 }`}
               >
-                The Adinkra
+                Golden Race 
               </span>
               <span
                 className={`hidden sm:block text-[8px] lg:text-[9px] tracking-mega-wide uppercase mt-0.5 transition-colors duration-500 ${
