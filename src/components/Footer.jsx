@@ -120,7 +120,7 @@ export default function Footer() {
             />
             <span className="flex flex-col items-start">
               <span className="font-display text-2xl lg:text-3xl text-cream-50 leading-none">
-                The Adinkra
+                Golden Race
               </span>
               <span className="text-[10px] tracking-mega-wide uppercase text-gold-400 mt-1">
                 Accra &middot; Est. 1994
