@@ -22,7 +22,7 @@ const navLinks = [
   { name: 'Dining', path: '/dining' },
   { name: 'Wellness', path: '/about#wellness' },
   { name: 'Gallery', path: '/gallery' },
-  { name: 'Journal', path: '/about' },
+  { name: 'About', path: '/about' },
   { name: 'Contact', path: '/contact' },
 ];
 
